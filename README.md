@@ -5,7 +5,7 @@ This project demonstrates the application of machine learning techniques, specif
 ### Part A: Learning
 
 **Noise Scenarios**: Two scenarios are considered (sigma=0.0 and sigma=2.0) to analyze the effect of noise on the performance of symbolic regression.
-**Target Function**: The target function for regression is defined as sqrt(x) + log(3*x) + 1.
+**Target Function**: The target function for regression is defined as $sqrt(x) + log(3*x) + 1$.
 **Data Generation**: Training and testing datasets are generated with specified noise levels.
 **Evolutionary Algorithm Initialization**: A symbolic regression model is initialized using a set of primitive functions and terminals.
 **Evaluation**: The model is trained and evaluated multiple times for each noise scenario, and the results are collected and summarized.
