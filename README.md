@@ -56,7 +56,7 @@ Evolutionary Algorithms: Genetic programming is employed to evolve the populatio
 | **Worst MAE**  | 0.3389        | 0.8482    |
 | **Mean MAE**   | 0.1312        | 0.1530    |
 | **Variance MAE**| 0.0056       | 0.0192    |
-| **Best Solution**|             | 0.0260    |
+| **Best Solution**|    -         | 0.0260    |
 
 ## Results Obtained for Noise Scenario 2
 
@@ -66,7 +66,7 @@ Evolutionary Algorithms: Genetic programming is employed to evolve the populatio
 | **Worst MAE**  | 3.9593        | 5.9986    |
 | **Mean MAE**   | 2.9399        | 3.3676    |
 | **Variance MAE**| 0.1741       | 0.7980    |
-| **Best Solution**|             | 1.6805    |
+| **Best Solution**|     -        | 1.6805    |
 
 
 ## Optimization Part:
