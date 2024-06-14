@@ -1,6 +1,26 @@
 # Machine-Learning-and-EA-for-Regression-and-Optimization
 This project demonstrates the application of machine learning techniques, specifically symbolic regression, and optimization using evolutionary algorithms. The main focus is on the regression problem with different noise scenarios and optimizing a multi-variable function using various libraries and techniques, including DEAP and Platypus.
 
+## Algorithm Parameters
+
+| Parameter | Value |
+|---|---|
+| Algorithm | GP |
+| Package Used | EC-KitY |
+| Training Data Size | 30 |
+| Test Data Size | 10 |
+| x lower bound | 1.0 |
+| x upper bound | 10.0 |
+| Noise Values | 0.2 |
+| Evaluation Metric | MAE |
+| Number of Runs | 50 |
+| Number of Generations | 10 |
+| Population Size | 1000 |
+| Selection Type | Tournament Selection |
+| Tournament Size | 4 |
+| Crossover Probability | 0.80 |
+| Mutation Probability | 0.01 |
+
 ## Project Structure
 ### Part A: Learning
 
