@@ -44,3 +44,44 @@ Statistics Collection: The performance of the algorithms is analyzed over multip
 
 **Symbolic Regression**: Symbolic regression is used to find a mathematical expression that best fits a set of data points. This project uses a combination of primitive functions (add, sub, mul, div, etc.) to build complex models that approximate the target function.
 Evolutionary Algorithms: Genetic programming is employed to evolve the population of models over generations, selecting the best models based on their performance on the training and test sets.
+
+# Results:
+## Learning Part:
+
+### Results Obtained for Noise Scenario 0
+
+| Metric         | Training Data | Test Data |
+|----------------|---------------|-----------|
+| **Best MAE**   | 0.0339        | 0.0260    |
+| **Worst MAE**  | 0.3389        | 0.8482    |
+| **Mean MAE**   | 0.1312        | 0.1530    |
+| **Variance MAE**| 0.0056       | 0.0192    |
+| **Best Solution**|             | 0.0260    |
+
+## Results Obtained for Noise Scenario 2
+
+| Metric         | Training Data | Test Data |
+|----------------|---------------|-----------|
+| **Best MAE**   | 2.0205        | 1.6805    |
+| **Worst MAE**  | 3.9593        | 5.9986    |
+| **Mean MAE**   | 2.9399        | 3.3676    |
+| **Variance MAE**| 0.1741       | 0.7980    |
+| **Best Solution**|             | 1.6805    |
+
+
+## Optimization Part:
+
+### General Results Obtained
+
+| Metric             | Value       |
+|--------------------|-------------|
+| **Best Fitness**   | 189.1859    |
+| **Worst Fitness**  | 4656.6467   |
+| **Mean Fitness**   | 2159.8262   |
+| **Variance Fitness**| 1591022.7807|
+| **Best Solution Vector** | (x1 = 6.6700, x2 = 37.0461, x3 = 19.0318) |
+
+### Conclusion
+
+These results demonstrate the performance of the model under different noise scenarios. The tables above summarize the key metrics for both training and test data, providing a clear comparison of the model's accuracy and stability.
+
