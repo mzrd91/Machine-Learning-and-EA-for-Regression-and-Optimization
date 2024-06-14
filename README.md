@@ -1,5 +1,7 @@
 # Machine-Learning-and-EA-for-Regression-and-Optimization
-This project demonstrates the application of machine learning techniques, specifically symbolic regression, and optimization using evolutionary algorithms. The main focus is on the regression problem with different noise scenarios and optimizing a multi-variable function using various libraries and techniques, including DEAP and Platypus.
+
+## Introduction
+This project explores the application of machine learning techniques, specifically symbolic regression and optimization using evolutionary algorithms, to solve complex problems. The goal is to develop models that can accurately predict outcomes and optimize functions in the presence of noise.
 
 ## Algorithm Parameters
 
