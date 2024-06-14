@@ -1,0 +1,11 @@
+deap
+eckity
+geatpy
+platypus-opt
+numpy
+pandas
+scikit-learn
+platypus-opt
+matplotlib
+jupyter
+
