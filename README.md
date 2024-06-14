@@ -85,5 +85,24 @@ Evolutionary Algorithms: Genetic programming is employed to evolve the populatio
 
 ### Conclusion
 
+## Comparing the three methods:
+
+## Conclusion:
+
+|                   | EC-KitY           | PLATYPUS       | DEAP           |
+|-------------------|-------------------|----------------|----------------|
+| **Execution Time**| Slowest           | Medium         | Fastest        |
+| **Documentation** | Insufficient/Under Development | Medium | Sufficient    |
+| **Resources Available** | Insufficient | Medium         | Sufficient     |
+| **Quality of Results for GP** | High    | High           | High           |
+| **Quality of Results for GA** | Low     | High           | High           |
+| **Suitable for GP** | Yes             | Yes            | Yes            |
+| **Suitable for GA** | No              | Yes            | Yes            |
+| **Ease of Implementation** | Difficult  | Easy           | Easy           |
+| **Code Length**   | Medium            | Short          | Long           |
+
+The overall conclusion is that the best two packages were DEAP and Platypus. The table above shows the
+baseline for landing upon this conclusion.
+
 These results demonstrate the performance of the model under different noise scenarios. The tables above summarize the key metrics for both training and test data, providing a clear comparison of the model's accuracy and stability.
 
