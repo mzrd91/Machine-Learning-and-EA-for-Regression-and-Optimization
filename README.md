@@ -83,9 +83,9 @@ Evolutionary Algorithms: Genetic programming is employed to evolve the populatio
 | **Variance Fitness**| 1591022.7807|
 | **Best Solution Vector** | ($x1 = 6.6700, x2 = 37.0461, x3 = 19.0318$) |
 
-### Conclusion
+## Conclusion
 
-## Comparing the three methods:
+### Comparing the three methods:
 
 |                   | EC-KitY           | PLATYPUS       | DEAP           |
 |-------------------|-------------------|----------------|----------------|
