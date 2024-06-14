@@ -11,7 +11,7 @@ This project demonstrates the application of machine learning techniques, specif
 **Evaluation**: The model is trained and evaluated multiple times for each noise scenario, and the results are collected and summarized.
 Part B: Optimization
 
-**Target Function**: A function x1^2 + x2^2 + x3^2 is optimized using DEAP and Platypus libraries.
+**Target Function**: A function $x_1^2 + x_2^2 + x_3^2$  is optimized using DEAP and Platypus libraries.
 Evolutionary Algorithm Setup: Genetic algorithms are set up to find the optimal values of the variables that minimize the target function.
 Statistics Collection: The performance of the algorithms is analyzed over multiple runs, and key statistics such as best, worst, mean, and variance of the fitness values are recorded.
 Machine Learning Techniques
