@@ -87,8 +87,6 @@ Evolutionary Algorithms: Genetic programming is employed to evolve the populatio
 
 ## Comparing the three methods:
 
-## Conclusion:
-
 |                   | EC-KitY           | PLATYPUS       | DEAP           |
 |-------------------|-------------------|----------------|----------------|
 | **Execution Time**| Slowest           | Medium         | Fastest        |
