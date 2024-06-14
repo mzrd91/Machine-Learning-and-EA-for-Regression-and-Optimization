@@ -79,7 +79,7 @@ Evolutionary Algorithms: Genetic programming is employed to evolve the populatio
 | **Worst Fitness**  | 4656.6467   |
 | **Mean Fitness**   | 2159.8262   |
 | **Variance Fitness**| 1591022.7807|
-| **Best Solution Vector** | (x1 = 6.6700, x2 = 37.0461, x3 = 19.0318) |
+| **Best Solution Vector** | ($x1 = 6.6700, x2 = 37.0461, x3 = 19.0318$) |
 
 ### Conclusion
 
